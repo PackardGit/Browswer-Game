@@ -35,6 +35,11 @@ Plan:
   Week 8:Finishing our game, creating network multiplayer mode.
   
   Week 9: Finishing project, testing, eliminating  bugs.
+  
+  https://prezi.com/wy560wqa-kym/battleships/?present=1  
+  
+  ![alt text](https://github.com/Suarez94/Browswer-Game/blob/master/slide1.png)  
+
 						
 
       
