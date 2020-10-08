@@ -67,7 +67,7 @@
 		<div style="clear: both"></div>
 		
 				<div id="fotter">
-		Piotr Machura &copy Wszelkie prawa zastrzeżone.
+		&copy Wszelkie prawa zastrzeżone.
 		</div>
 	</div>
 </body>
